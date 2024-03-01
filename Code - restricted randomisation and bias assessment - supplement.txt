@@ -6,7 +6,7 @@ Restricted Tandomisation Procedure Code (Stata)
 *SSoremekun
 *https://doi.org/10.1371/journal.pdig.0000235
 *NOTES*
-*Using Cluster_m database (all cluster level summary vars used in randomisation)
+*Using cluster_m_github.dta database (all cluster level summary vars used in randomisation)
 *This do file creates a file containing all allocation schemes meeting criteria; using different balance criteria limits: allowed_tm1/...tm12
 *final agreed set of balance criteria saved in file: allowed_tm10
 
